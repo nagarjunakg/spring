@@ -17,7 +17,7 @@ public int getId() {
 public void setId(int id) {  
     this.id = id;} 
 public void displayInfo(){  
-    System.out.println("Hello: "+id+"" + name);  
+    System.out.println("Hello: "+ name);  
 }  
 
 }  
